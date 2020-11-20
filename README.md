@@ -41,7 +41,7 @@ $ yarn
 ```
 Inicie o servidor:
 ```sh
-$ yarn dev
+$ yarn start
 ```
 
 ----------
